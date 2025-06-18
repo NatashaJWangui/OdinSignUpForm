@@ -241,6 +241,9 @@ Contributions are welcome! Areas for improvement:
 3. Test across different browsers and devices
 4. Submit a pull request with clear description
 
+## License
+This project is for educational purposes.
+
 ## 📞 Support & Resources
 
 **Documentation:**
